@@ -22,6 +22,17 @@ Nothing moves automatically. You decide when to tidy up.
 
 ## Install
 
+### Ask your AI agent
+
+Point your AI agent in Omarchy at this repo, or copy this prompt using the copy
+button in the top-right corner of the box:
+
+```text
+Install Mind the Gap from https://github.com/nickdc8/omarchy-mind-the-gap on my Omarchy desktop. Read the README and inspect the plugin source, check compatibility, then install and enable it. Back up my bar configuration and place nickdc8.mind-the-gap immediately after my existing Workspaces widget, preserving my other widgets and settings. Reload the bar if needed and check for loading errors. Keep compaction manual: the Close gaps button should appear on bar hover only when there are gaps. Do not move my windows just to test it.
+```
+
+### Install manually
+
 Requires Omarchy Quattro's Quickshell bar, a Lua-enabled Hyprland
 (`hl.dsp.window.move` and `hl.dsp.focus`), and Python 3.
 

@@ -1,3 +1,5 @@
+![Mind the Gap: yellow platform lettering beneath a passing London-style Tube train, with desktop numbers 1 2 5 6 closing to 1 2 3 4](assets/header.png)
+
 # Mind the Gap
 
 **Close the gaps in your Omarchy desktops—when you choose.**

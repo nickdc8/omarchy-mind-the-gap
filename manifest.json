@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "nickdc8.mind-the-gap",
+  "name": "Mind the Gap",
+  "version": "1.0.0",
+  "author": "nickdc8",
+  "description": "Hover the bar and click to close gaps between occupied numbered desktops.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "MindTheGap.qml"
+  },
+  "barWidget": {
+    "displayName": "Mind the Gap",
+    "category": "Desktop",
+    "allowMultiple": false,
+    "defaultSection": "left"
+  }
+}
